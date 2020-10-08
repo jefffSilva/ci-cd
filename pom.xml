@@ -43,7 +43,7 @@
 						<goal>execute</goal>
 					</goals>
 					<configuration>
-						<source>src/main/resources/test.groovy</source>
+						<source>src/main/groovy/teste.groovy</source>
 					</configuration>
 				</execution>
 			</executions>
