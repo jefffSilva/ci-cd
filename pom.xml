@@ -76,13 +76,13 @@
         <artifactId>gmaven-plugin</artifactId>
         <executions>
           <execution>
-            <id>Hello world</id>
+            <id>call-groovy</id>
             <phase>prepare-package</phase>
             <goals>
               <goal>execute</goal>
             </goals>
             <configuration>
-              <source>${basedir}/src/main/groovy/teste.groovy</source>
+              <source>src/main/groovy/teste.groovy</source>
             </configuration>
           </execution>
         </executions>
