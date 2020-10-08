@@ -77,7 +77,7 @@
         <executions>
           <execution>
             <id>Hello world</id>
-            <phase>process-classes</phase>
+            <phase>executes</phase>
             <goals>
               <goal>execute</goal>
             </goals>
