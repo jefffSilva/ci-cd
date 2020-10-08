@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="teste-maven">
+    <Basepaths>/teste-maven</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1602189008697</CreatedAt>
+    <CreatedBy>jefersonlinuxextreme@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>teste-maven</DisplayName>
+    <LastModifiedAt>1602189008697</LastModifiedAt>
+    <LastModifiedBy>jefersonlinuxextreme@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:662252bcfb62fb8bc3855c77e8f41508def6abf3617e70f8173bb372adb8a68c9320dac85e394c2a91042f986a6a4837af304eefa721fcf25e78f028e829f2f0</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>
